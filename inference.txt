@@ -1,0 +1,63 @@
+resnet50
+input img: my_images/database_test/data\20.jpeg
+query0 img: my_images/database_test/data\20.jpeg score:1.0000003576278687
+query1 img: my_images/database_test/data\23.jpeg score:0.99815434217453
+query2 img: my_images/database_test/data\21.jpeg score:0.9979807138442993
+query3 img: my_images/database_test/data\22.jpeg score:0.9977352619171143
+query4 img: my_images/database_test/data\14.jpeg score:0.9967492818832397
+mobilenetv2
+input img: my_images/database_test/data\20.jpeg
+query0 img: my_images/database_test/data\20.jpeg score:1.0
+query1 img: my_images/database_test/data\21.jpeg score:0.9104705452919006
+query2 img: my_images/database_test/data\14.jpeg score:0.8696929216384888
+query3 img: my_images/database_test/data\18.jpeg score:0.8421159386634827
+query4 img: my_images/database_test/data\23.jpeg score:0.8409044742584229
+resnet50
+input img: my_images/database_test/data\16.jpeg
+query0 img: my_images/database_test/data\16.jpeg score:1.0000005960464478
+query1 img: my_images/database_test/data\target.jpeg score:0.9976295232772827
+query2 img: my_images/database_test/data\17.jpeg score:0.9976208209991455
+query3 img: my_images/database_test/data\14.jpeg score:0.994269609451294
+query4 img: my_images/database_test/data\21.jpeg score:0.9913350939750671
+mobilenetv2
+input img: my_images/database_test/data\16.jpeg
+query0 img: my_images/database_test/data\16.jpeg score:0.9999997615814209
+query1 img: my_images/database_test/data\14.jpeg score:0.7661958336830139
+query2 img: my_images/database_test/data\13.jpeg score:0.7604572176933289
+query3 img: my_images/database_test/data\18.jpeg score:0.7588441371917725
+query4 img: my_images/database_test/data\23.jpeg score:0.7528665661811829
+resnet50
+input img: my_images/database_test/data\3.jpeg
+query0 img: my_images/database_test/data\3.jpeg score:1.0000003576278687
+query1 img: my_images/database_test/data\4.jpeg score:1.0000003576278687
+query2 img: my_images/database_test/data\7.jpeg score:1.0000003576278687
+query3 img: my_images/database_test/data\10.jpeg score:0.6162877678871155
+query4 img: my_images/database_test/data\1.jpeg score:0.48629236221313477
+mobilenetv2
+input img: my_images/database_test/data\3.jpeg
+query0 img: my_images/database_test/data\3.jpeg score:0.9999997019767761
+query1 img: my_images/database_test/data\4.jpeg score:0.9999997019767761
+query2 img: my_images/database_test/data\7.jpeg score:0.9999997019767761
+query3 img: my_images/database_test/data\1.jpeg score:0.7670331597328186
+query4 img: my_images/database_test/data\10.jpeg score:0.7575415372848511
+resnet50
+input img: my_images/database_test/data\18.jpeg
+query0 img: my_images/database_test/data\18.jpeg score:0.999999463558197
+query1 img: my_images/database_test/data\22.jpeg score:0.9930561780929565
+query2 img: my_images/database_test/data\23.jpeg score:0.9929192662239075
+query3 img: my_images/database_test/data\13.jpeg score:0.9918097257614136
+query4 img: my_images/database_test/data\21.jpeg score:0.9917824268341064
+mobilenetv2
+input img: my_images/database_test/data\18.jpeg
+query0 img: my_images/database_test/data\18.jpeg score:1.0
+query1 img: my_images/database_test/data\13.jpeg score:0.9027673006057739
+query2 img: my_images/database_test/data\target.jpeg score:0.8710558414459229
+query3 img: my_images/database_test/data\23.jpeg score:0.8709303140640259
+query4 img: my_images/database_test/data\14.jpeg score:0.8600877523422241
+resnet50
+input img: my_images/database_test/data\19.jpeg
+query0 img: my_images/database_test/data\19.jpeg score:1.000000238418579
+query1 img: my_images/database_test/data\20.jpeg score:0.9828736782073975
+query2 img: my_images/database_test/data\14.jpeg score:0.9810775518417358
+query3 img: my_images/database_test/data\13.jpeg score:0.9807507991790771
+query4 img: my_images/database_test/data\target.jpeg score:0.9806463122367859
